@@ -17,7 +17,17 @@ Source: https://www.kaggle.com/mathurinache/world-happiness-report?select=2020.c
 
 # Research Questions:
 
+1. Do the countries of the same region have the same level of happiness?
 
+Plotted bar graphs to show the happiness scores for five regions.
+
+2. Do all of the variables have an equal effect on the happiness level of regions?
+
+Plotted heat maps to show the correlation between the variables (GDP, social support, health life expectancy, freedom to make choices, and generosity) and the overall happiness level. 
+
+3. How do the countries with the highest GDP compare in terms of happiness level versus the countries with the lowest GDP?
+
+Plotted two box-and-whisker plots to compare the happiness of higher-GDP countries and lower-GDP countries.
 
 
 
