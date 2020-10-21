@@ -29,6 +29,18 @@ Plotted heat maps to show the correlation between the variables (GDP, social sup
 
 Plotted two box-and-whisker plots to compare the happiness of higher-GDP countries and lower-GDP countries.
 
+4. What portion of high-GDP countries have low happiness levels?
+
+Plotted pie chart to show the percentage of high-GDP countries with low happiness levels.
+
+5. What portion of low-GDP countries have high happiness levels?
+
+Plotted pie chart to show the percentage of low-GDP countries with high happiness levels.
+
+
+# Conclusion:
+
+After performing various statistic tests and plotting visualizations we can confirm that we have enough evidence to support our hypothesis and state it is true. We can confirm, GDP does have a positive relationship to the happiness level. We have accepted the hypothesis and rejected the null hypothesis.
 
 
 
