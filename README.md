@@ -1,6 +1,6 @@
 # What Makes Us Smile: World Happiness Data at a Glance
 
-Hypothesis: GDP is positively related to happiness level.
+Hypothesis: GDP is positively related to happiness level for the year 2020
 
 Null hypothesis: GDP is not related to the happiness level
 
